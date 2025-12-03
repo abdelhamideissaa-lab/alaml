@@ -25,7 +25,7 @@ document.addEventListener('DOMContentLoaded', () => {
             footer_col1_p: "The pinnacle of luxury in natural and engineered stone.",
             footer_col2_title: "Quick Links",
             footer_col3_title: "Follow Us",
-            footer_copyright: "&copy; 2024 Al Amal Marble & Granite. All Rights Reserved.",
+            footer_copyright: "&copy; 2024 Abdalla Eissa. All Rights Reserved.",
             products_title: "Our Products",
             products_subtitle: "An exclusive selection of the world's finest stones.",
             filter_all: "All",
@@ -236,3 +236,4 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 });
+
